@@ -1,0 +1,13 @@
+# Ignore all node_modules folders
+**/node_modules/
+
+# Ignore all package.json and package-lock.json files
+**/package*.json
+
+# Optional: ignore Yarn files
+**/yarn.lock
+
+# Ignore common IDE/editor clutter
+.DS_Store
+*.log
+
